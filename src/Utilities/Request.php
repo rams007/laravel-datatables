@@ -219,7 +219,8 @@ class Request
     {
         $column = $this->request->input("columns.$i");
 
-        return isset($column['name']) && $column['name'] != '' ? $column['name'] : $column['data'];
+        return  $column['data'];
+      //  return isset($column['name']) && $column['name'] != '' ? $column['name'] : $column['data'];
     }
 
     /**
