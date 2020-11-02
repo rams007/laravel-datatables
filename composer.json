@@ -1,6 +1,6 @@
 {
-  "name": "yajra/laravel-datatables-oracle",
-  "description": "jQuery DataTables API for Laravel 4|5|6|7",
+  "name": "rams007/laravel-datatables",
+  "description": "jQuery DataTables API for Laravel 4|5|6|7  fork for internal use only",
   "keywords": [
     "laravel",
     "dataTables",
@@ -9,8 +9,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Arjay Angeles",
-      "email": "aqangeles@gmail.com"
+      "name": "Roman Govtvyan",
+      "email": "sramsiks@gmail.com"
     }
   ],
   "require": {
